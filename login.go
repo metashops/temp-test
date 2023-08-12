@@ -7,3 +7,8 @@ func MyMain()  {
 func MyD() {
 	fmt.Println("是我D函数")
 }
+
+// E 开发
+func MyD() {
+	fmt.Println("是我E函数")
+}
