@@ -1,9 +1,9 @@
 func MyMain()  {
 	fmt.Println("我是Main")
-	fmt.Println(MyC())
+	fmt.Println(MyD())
 }
 
-// c 开发
-func MyC() {
-	fmt.Println("是我C函数")
+// D 开发
+func MyD() {
+	fmt.Println("是我D函数")
 }
